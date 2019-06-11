@@ -1,2 +1,3 @@
 # hello-world
-Инициализировать этот репозиторий с помощью README .
+
+i'm Vitalik and i'm not programmer
